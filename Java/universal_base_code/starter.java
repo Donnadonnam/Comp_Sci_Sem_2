@@ -12,3 +12,5 @@ class starter {
 		
 	}
 }
+npm install autoprefixer@10.4.5 --save-exact
+npm install vue-router@3 --save
